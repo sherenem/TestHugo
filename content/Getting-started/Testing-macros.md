@@ -1,7 +1,7 @@
 ---
 title: "Macros"
 date: 2018-11-14T11:48:37+05:30
-draft: true
+draft: false
 weight: 2
 toc : true
 ---
