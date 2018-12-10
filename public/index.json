@@ -1,0 +1,43 @@
+[
+{
+	"uri": "http://example.org/wso2-update-manager-docs/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": " updates (WSO2 Updates) Available Pages:  WSO2 Updates {width=\u0026ldquo;16\u0026rdquo; height=\u0026ldquo;16\u0026rdquo;}\n Introduction   Using WSO2 In-Place Updates   Using WSO2 Update Manager\n Getting Started   Getting Continuous Updates   Restoring the Previous Setup   WUM Commands Guide   Troubleshooting   Developer Guide    Best Practices Guide   FAQ   "
+},
+{
+	"uri": "http://example.org/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://example.org/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://example.org/_header/",
+	"title": "WSO2 Identity and Access Management Documentation",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://example.org/",
+	"title": "WSO2 Identity and Access Management Documentation",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://example.org/wso2-update-manager-docs/",
+	"title": "WSO2-Update-Manager-Docs",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

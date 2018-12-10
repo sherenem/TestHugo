@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "WSO2 IAM Documentation"
+theme="docdock"
+[outputs]
+home=[ "HTML", "RSS", "JSON"]
+[params]
+themeStyle="flex"
+publishDir="public"
