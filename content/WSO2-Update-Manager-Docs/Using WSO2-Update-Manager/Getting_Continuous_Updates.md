@@ -1,7 +1,7 @@
 ---
 title: "Getting Continuous Updates"
 date: 2018-11-14T11:59:23+05:30
-draft: true
+draft: false
 weight: 3
 ---
 # Getting Continuous Updates
