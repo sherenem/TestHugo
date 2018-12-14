@@ -1,7 +1,7 @@
 ---
 title: "Best Practices Guide"
 date: 2018-11-14T11:59:23+05:30
-draft: true
+draft: false
 weight: 4
 ---
 # Best Practices Guide

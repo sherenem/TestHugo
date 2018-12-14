@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with WSO2 IAM"
 date: 2018-11-14T11:59:13+05:30
-draft: true
+draft: false
 weight: 3
 ---
 
