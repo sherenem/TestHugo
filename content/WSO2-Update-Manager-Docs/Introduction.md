@@ -6,7 +6,7 @@ weight: 1
 ---
 # Introduction
 
-**WSO2 Updates** include any improvements (e.g., bug fixes, security
+**WSO2 Updates** test live changes include any improvements (e.g., bug fixes, security
 fixes) that are released by WSO2 on top of a released WSO2 product
 version. With updates, you do not have to wait until the next product
 version is released to get the fixes you want. Find out more about WSO2
